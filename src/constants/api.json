@@ -1,0 +1,11 @@
+{
+    "login":"http://localhost:9000/Login/getLogin/",
+    "register":"http://localhost:9000/Login/register/",
+    "addProperty":"http://localhost:9000/Owner/addProperty/",
+    "getProperty":"http://localhost:9000/Owner/getProperty/",
+    "getAllProperty":"http://localhost:9000/Owner/getAllProperty/",
+    "deleteProperty":"http://localhost:9000/Owner/deleteProperty/",
+    "updateProperty":"http://localhost:9000/Owner/updateProperty/",
+    "purchaseProperty":"http://localhost:9000/Customer/purchaseProperty",
+    "getPropertyByCustomer":"http://localhost:9000/Customer/getPropertyByCustomerId/"
+}
